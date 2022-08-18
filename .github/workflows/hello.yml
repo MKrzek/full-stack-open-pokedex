@@ -15,5 +15,4 @@ jobs:
       - name: 'Print date'
         run: |
           date
-        run: |
           ls -l
